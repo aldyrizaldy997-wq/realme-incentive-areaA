@@ -1,0 +1,9 @@
+{
+  "appId": "com.realme.incentive",
+  "appName": "Realme Incentive",
+  "webDir": "www",
+  "bundledWebRuntime": false,
+  "server": {
+    "androidScheme": "https"
+  }
+}
